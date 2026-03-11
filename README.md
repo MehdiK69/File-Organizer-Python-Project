@@ -34,3 +34,7 @@ python main.py
 - [x] Compteur de fichiers par catégorie
 - [ ] Support d'autres extensions (en cours)
 - [ ] Interface en ligne de commande (à venir)
+
+## Fichiers ignorés
+
+Le dossier `sandbox/` contient les fichiers de test et n'est pas inclus dans le dépôt.
